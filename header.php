@@ -26,10 +26,7 @@
 	
 	
 	<link href='http://fonts.googleapis.com/css?family=Raleway:400,600' rel='stylesheet' type='text/css'>
-	<link href="<?php bloginfo('template_url'); ?>/style.php" rel="stylesheet" type="text/css" />
-	<noscript>
-		<link href="<?php bloginfo('template_url'); ?>/noscript.css" rel="stylesheet" type="text/css" />
-	</noscript>
+	<link href="<?php bloginfo('template_url'); ?>/style.css" rel="stylesheet" type="text/css" />
 	
 	<link rel="pingback" href="<?php bloginfo( 'pingback_url' ); ?>" />
 	
